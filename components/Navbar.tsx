@@ -22,7 +22,7 @@ const Navbar = () => {
         ))}
       </ul>
 
-<div className="lg:lexCenter hidden"> 
+<div className="lg:flexCenter hidden"> 
 
 <Button
 type="button"

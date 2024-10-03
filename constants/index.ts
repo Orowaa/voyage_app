@@ -79,6 +79,7 @@ export const NAV_LINKS = [
     links: [
       '/facebook.svg',
       '/instagram.svg',
+      '/linkedin.svg',
       '/twitter.svg',
       '/youtube.svg',
       '/wordpress.svg',
